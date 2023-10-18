@@ -25,6 +25,6 @@ let instock= false;
 let selectedSize = "M";
 
 console.log(
-  '${product} in size ${selectedSize} is $${price} with ${stock}
-  in stock.' 
+  `${product} in size ${selectedSize} is $${price} with ${stock}
+  in stock.`
 );
